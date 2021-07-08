@@ -1,0 +1,6 @@
+*.exe
+/build/dist/*
+.idea/*
+.vscode/*
+/vendor/*
+/bin/*
